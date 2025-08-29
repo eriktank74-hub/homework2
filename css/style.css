@@ -27,14 +27,15 @@ button{
     font-weight: 700;
     font-style: Bold;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3%;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
     text-transform: uppercase;
    
 
 }
 .logo-web {
-    color: #4D5AE5;
+    color: #2e2f42;
 
 }
 .logo-studio {
