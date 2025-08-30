@@ -17,10 +17,7 @@ button{
 
 }
     /*      ---------HEADER----------       */ 
-.header {
-  
-}
-.header-navigation {
+header {
 }
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -36,12 +33,21 @@ button{
 }
 .logo-web {
     color: #2e2f42;
-
+    text-align: center
 }
 .logo-studio {
     color: #2E2F42;
+    text-align: center
 }
+
+.header-title-main {
+    font-size: 56px; 
+    text-align: center;
+}
+
 .header-menu-list {
+    letter-spacing: 0.02em;
+    color: #404bbf;
 }
 .header-menu-item {
     
@@ -92,11 +98,11 @@ button{
     height: 56px;
     width: 169px;
     background: #4D5AE5;
-    border-radius: 4px;
+    
 }
 
 
 
-selection-footer {
+.selection-footer {
     background: #2e2f42;
 }
