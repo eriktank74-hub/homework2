@@ -13,11 +13,9 @@ a{
    
 }
 
-button{
-
-}
     /*      ---------HEADER----------       */ 
 header {
+
 }
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -108,13 +106,6 @@ header {
     letter-spacing: 0.02em;
     color: #404bbf;
 }
-.features-subtitle-head:hover {
-    color: #404bbf;
-}
-.features-subtitle-head:focus {
-    color: #404bbf;
-}
-
 .selection-footer {
-    background: #2e2f42;
+    
 }
