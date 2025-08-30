@@ -35,10 +35,14 @@ header {
 }
 
 .header-title-main {
-    font-size: 56px; 
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
+font-weight: 700;
+font-style: Bold;
+font-size: 56px;
+line-height: 60px;
+letter-spacing: 2%;
+text-align: center;
+color: #FFFFFF;
+
 }
 
 .header-menu-list {
@@ -89,14 +93,7 @@ header {
     background: #2E2F42;
 
 }
-.hero h1 {
-    font-weight: 700;
-    font-style: Bold;
-    font-size: 40px;
-    line-height: 48px;
-    color: #FFFFFF;
-    
-}
+
 .hero-btn {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -125,9 +122,16 @@ header {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.features-discription {
+.features-description {
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.features-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .team {
     background-color: #F4F4FD 
@@ -179,7 +183,15 @@ header {
 .service-description {
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455 ;
+}
+.service-feature {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;    
 }
     /*      ---------FOOTER----------       */
 .selection-footer {
@@ -199,4 +211,7 @@ header {
     color: #f4f4fd;
     line-height: 1.5;
     letter-spacing: 0.02em
+}
+.logo-studio-footer {
+    color: #f4f4fd;
 }
