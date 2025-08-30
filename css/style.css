@@ -93,6 +93,7 @@ header {
     font-weight: 500;
     font-style: Medium;
     font-size: 16px;
+    cursor: pointer;
     line-height: 24px;
     letter-spacing: 0.04em;
     color: #FFFFFF;
@@ -102,7 +103,10 @@ header {
     
 }
 
+
 .features-subtitle-head {
+    font-size: 56px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #404bbf;
 }
