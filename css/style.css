@@ -30,7 +30,7 @@ header {
 
 }
 .logo-web {
-    color: #2e2f42;
+    color: #f4f4fd;
     text-align: center
 }
 .logo-studio {
@@ -106,6 +106,32 @@ header {
     letter-spacing: 0.02em;
     color: #404bbf;
 }
+
+.service-portfolio-section {
+    font-size: 36px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 .selection-footer {
-    
+    background-color: #2e2f42;
+}
+.footer-log-head {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
+    text-transform: uppercase;
+}
+.footer-text {
+    color: #f4f4fd;
+    line-height: 1.5;
+    letter-spacing: 0.02em
 }
