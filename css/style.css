@@ -35,13 +35,13 @@ header {
 }
 
 .header-title-main {
-font-weight: 700;
-font-style: Bold;
-font-size: 56px;
-line-height: 60px;
-letter-spacing: 2%;
-text-align: center;
-color: #FFFFFF;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
 
 }
 
