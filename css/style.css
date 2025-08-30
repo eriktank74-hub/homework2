@@ -42,7 +42,9 @@ header {
 
 .header-title-main {
     font-size: 56px; 
+    line-height: 1.07;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .header-menu-list {
@@ -61,6 +63,7 @@ header {
     color: #2E2F42;
 }
 .header-contacts {
+    font-style: normal
 }
 .header-contacts-list {
 }
@@ -93,7 +96,7 @@ header {
     font-style: Medium;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     color: #FFFFFF;
     height: 56px;
     width: 169px;
@@ -101,7 +104,16 @@ header {
     
 }
 
-
+.features-subtitle-head {
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+.features-subtitle-head:hover {
+    color: #404bbf;
+}
+.features-subtitle-head:focus {
+    color: #404bbf;
+}
 
 .selection-footer {
     background: #2e2f42;
